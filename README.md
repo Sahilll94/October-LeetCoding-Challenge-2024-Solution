@@ -19,7 +19,7 @@ Each day’s challenge will be organized in its own file, containing:
 
 ## Solutions in Sequence
 
-1. ![1_Check If Array Pairs Are Divisible by k.cpp](./1_Check If Array Pairs Are Divisible by k.cpp)
+1. [1_Check If Array Pairs Are Divisible by k.cpp](./1_Check If Array Pairs Are Divisible by k.cpp)
 2. [2_Rank Transform of an Array.cpp](./2_Rank Transform of an Array.cpp)
 3. [3_Make Sum Divisible by P.cpp](./3_Make Sum Divisible by P.cpp)
 4. [4_Divide Players Into Teams of Equal Skill.cpp](./4_Divide Players Into Teams of Equal Skill.cpp)
