@@ -1,6 +1,11 @@
 # October-LeetCoding-Challenge-2024-Solution
 
+
 ![October Badge](./BadgeGif.gif)
+
+
+
+
 ![October Badge](./OctBatch.png)
 
 Welcome to the **October LeetCoding Challenge 2024** repository! This repo is dedicated to providing daily solutions for each challenge question along with the question links, making it easier for LeetCoders to learn and follow along.
