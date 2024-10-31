@@ -4,12 +4,10 @@
     <img src="./BadgeGif.gif" alt="October Badge">
 </div>
 
-
-![October Badge](./OctBatch.png)
-
 Welcome to the **October LeetCoding Challenge 2024** repository! This repo is dedicated to providing daily solutions for each challenge question along with the question links, making it easier for LeetCoders to learn and follow along.
 
 ## About
+![October Badge](./OctBatch.png)
 This repository contains:
 - Solutions to each day's question in the **October 2024 LeetCoding Challenge**.
 - Links to the original LeetCode questions, allowing you to quickly access the problem statement and try it out on your own.
