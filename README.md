@@ -1,9 +1,8 @@
 # October-LeetCoding-Challenge-2024-Solution
 
-
-![October Badge](./BadgeGif.gif)
-
-
+<div align="center">
+    <img src="./BadgeGif.gif" alt="October Badge">
+</div>
 
 
 ![October Badge](./OctBatch.png)
